@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://airwing-it.com"
+baseurl = "http://www.airwing-it.com"
 languageCode = "en-us"
 title = "Airwing IT"
 theme = "hugo-agency-theme"
@@ -18,7 +18,7 @@ googleAnalytics = "UA-107010477-1"
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "Airwing IT"
-  description = "Airwing IT provides consulting and development services in an increasibngly mobile world."
+  description = "Airwing IT provides consulting and development services in an increasingly mobile world."
 
   # Link custom assets relative to /static
   custom_css = []
