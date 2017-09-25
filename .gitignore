@@ -1,0 +1,8 @@
+# Mac files
+.DS_Store
+
+# hugo themes - cloned from their own repo
+themes/
+
+# hugo generated files
+public/
