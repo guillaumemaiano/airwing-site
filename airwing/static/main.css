@@ -783,7 +783,7 @@ aside .heading {
 }
 
 section#contact {
-    background-color: #CCC;
+    background-color: #111;
     background-image: url(../img/map-image.png);
 	background-repeat: no-repeat;
 	background-position: center;
@@ -808,7 +808,7 @@ section#contact .form-group input.form-control {
 
 section#contact .form-group textarea.form-control {
     height: 236px;
-	background-color: #9ad1f8;
+	background-color: #FFF;
 }
 
 section#contact .form-control:focus {
